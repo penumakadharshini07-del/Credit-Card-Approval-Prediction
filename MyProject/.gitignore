@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.web_venv/
+.tmp/
+venv/
+env/
+.env
+instance/
+uploads/
+prediction_history.csv
+prediction_history.db
+*.log
+*.zip
+.ipynb_checkpoints/
+reports/.matplotlib/
